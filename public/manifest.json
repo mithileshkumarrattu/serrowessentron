@@ -1,0 +1,27 @@
+{
+  "name": "Serow Essentron Pvt. Ltd. - Premium Footwear Solutions",
+  "short_name": "Serow Essentron",
+  "description": "Authorized distributor for renowned brands like Paragon, Asian, and Jindal. Serving 325+ schools, 100+ medical colleges, and 200+ industries across Andhra Pradesh.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1f2937",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/serow-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/images/serow-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["business", "shopping"],
+  "lang": "en",
+  "dir": "ltr"
+}
